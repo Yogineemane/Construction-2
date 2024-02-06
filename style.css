@@ -1,0 +1,52 @@
+/* https://preview.themeforest.net/item/constructo-wp-construction-business-theme/full_screen_preview/9835983?_ga=2.253565260.451459452.1705569205-1890668739.1689915315 */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.hero{
+    background-image: url('https://images.pexels.com/photos/262347/pexels-photo-262347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.right{
+    margin-left: 25rem;
+}
+h1{
+    font-weight: 2rem;
+    font-size: 4rem;
+}
+.heading{
+    font-weight: 4rem;
+}
+.info{
+    font-weight: 6rem;
+}
+.hero2{
+    background-image: url('https://images.pexels.com/photos/2449785/pexels-photo-2449785.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    filter: blur(2px);
+}
+.btn:hover{
+    background-color: yellow;
+}
+.themes{
+    background-image: url('https://media.istockphoto.com/id/1263105283/photo/mechanic-and-female-engineer-using-laptop-at-factory.jpg?s=2048x2048&w=is&k=20&c=D2PjPYTt28n7kOKtCfVpKwEEGHpwpnSbIjX-2cbdx1g=');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /* filter: blur(1px); */
+}
+.themes>h3{
+    font-size: 2rem;
+}
+.content{
+    height: 40rem;
+    width: 70rem;
+}
+.news{
+    
+}
